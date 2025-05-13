@@ -31,4 +31,4 @@ This dataset can be used for various analyses, including:
 Credit to aayushs879 for the dataset and analysis.
 
 ## License
-This dataset is available under the terms specified on Kaggle.
+This dataset is available under the terms specified on [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales).
