@@ -28,7 +28,7 @@ This dataset can be used for various analyses, including:
 - Regional sales comparisons
 
 ## Acknowledgements
-Data sourced from [Kaggle].
+Credit to aayushs879 for the dataset and analysis.
 
 ## License
 This dataset is available under the terms specified on Kaggle.
