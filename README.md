@@ -5,7 +5,7 @@ This repository contains the Video Game Sales dataset from Kaggle, which include
 
 An interactive dashboard is provided. Please [click](https://public.tableau.com/app/profile/doris1589/viz/GamesAnalysis_16707278742450/GameAnalysisDashboard) to explore the data visually.
 
-![Uploading Game Analysis Dashboard.png…]()
+![Game Analysis Dashboard](https://github.com/user-attachments/assets/3899c0de-c75d-40a5-8bed-6463d9105669)
 
 ## Dataset Overview
 - **Total Entries:** 16,598
